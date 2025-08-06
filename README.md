@@ -41,7 +41,7 @@ To analyze a suspicious phishing email and identify key indicators that demonstr
 ---
 
 ## 📁 Deliverables:
-- `phishing_email_sample.txt` – Raw email text
+- `From PayPaI support@paypai.com.txt` – Raw email text
 - `README.md` – This report
 
 ---
