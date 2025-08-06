@@ -1,0 +1,15 @@
+From: PayPaI <support@paypai.com>
+To: you@example.com
+Subject: Urgent Action Required – Account Suspension Notice
+
+Dear Customer,
+
+We noticed unusual activity on your PayPal account. To protect your account, we have temporarily suspended it.
+
+Please verify your account immediately by clicking the link below:
+https://secure-paypai.com/verify
+
+Failure to respond within 24 hours will result in permanent suspension.
+
+Thank you,
+PayPal Security Team
